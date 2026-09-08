@@ -5,45 +5,58 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/dipaliparkhede">
-    <img src="https://img.shields.io/github/followers/dipaliparkhede?style=for-the-badge&logo=github&label=Followers" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=dipaliparkhede&style=for-the-badge&color=ff6b35&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/dipaliparkhede?style=for-the-badge&logo=github&label=FOLLOWERS" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 MCA Student | **Data Science & Machine Learning**
-💻 Full Stack Developer
-🤖 Interested in **AI/ML & Data Science**
-🌱 Currently learning **DSA with Java & Python**
-🔭 Building **KrishiMitraAI** 🌾
+🎓 **MCA Student** specializing in Data Science & Machine Learning
+💻 **Full Stack Developer** passionate about building modern web applications
+🤖 Exploring **Artificial Intelligence & Machine Learning**
+🌱 Currently strengthening **DSA with Java & Python**
+
 
 ---
 
-## 🛠️ Skills
+## 🧰 Tech Stack
 
-### 💻 Programming
+### 👨‍💻 Languages
 
-`Python` `Java` `JavaScript` `C` `C#`
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,c,cs" />
+</p>
 
-### 🌐 Web Development
+### 🌐 Frontend
 
-`ReactJS` `Next.js` `Node.js` `Tailwind CSS` `HTML` `CSS`
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
 
-### 🤖 Data Science & AI/ML
+### ⚙️ Backend
 
-`Machine Learning` `NumPy` `Pandas` `SciPy` `Scikit-learn` `Matplotlib` `Seaborn` `TensorFlow`
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi" />
+</p>
+
+### 🤖 Data Science & AI
+
+`Machine Learning` `TensorFlow` `NumPy` `Pandas` `SciPy`
+`Scikit-learn` `Matplotlib` `Seaborn` `Jupyter`
 
 ### 🗄️ Database
 
-`MySQL` `MongoDB` `SQL`
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-### 📊 Tools
+### 🛠️ Tools
 
-`Power BI` `Git` `GitHub` `VS Code` `Jupyter Notebook` `Firebase` `Android Studio`
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,androidstudio" />
+</p>
 
 ---
 
@@ -51,15 +64,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dipaliparkhede&theme=transparent&hide_border=true&ring=FF6B35&fire=FF4500&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipaliparkhede&show_icons=true&theme=transparent&hide_border=true&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipaliparkhede&layout=compact&theme=transparent&hide_border=true&title_color=FF6B35&text_color=FFFFFF" width="40%"/>
 </p>
 
 ---
@@ -72,15 +76,22 @@
 
 ---
 
-## 🤝 Connect With Me
+
+---
+
+## 🌱 Currently Exploring
+
+* 🧠 Data Structures & Algorithms
+* ☕ Java for DSA
+* 🐍 Python for Data Science & ML
+* 🤖 Deep Learning & AI
+* ⚡ AI-powered Applications
+* 🌐 Full Stack Development
+
+---
 
 <p align="center">
-  <a href="https://github.com/dipaliparkhede">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF6B35&center=true&vCenter=true&width=600&lines=Always+Learning+%F0%9F%8C%B1;Always+Building+%F0%9F%9A%80;Always+Improving+%F0%9F%94%A5" />
 </p>
 
 <p align="center">
