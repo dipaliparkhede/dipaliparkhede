@@ -1,12 +1,5 @@
 # 👋 Hi, I'm Dipali Parkhede
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=Data+Science+%26+ML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;MCA+Student+%F0%9F%8E%93;Building+Real+World+Projects+%F0%9F%9A%80" />
-</p>
-
-
----
-
 ## 🚀 About Me
 
 🎓 **MCA Student** specializing in Data Science & Machine Learning
