@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=Data+Science+%26+ML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;MCA+Student+%F0%9F%8E%93;Building+Real+World+Projects+%F0%9F%9A%80" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dipaliparkhede&style=for-the-badge&color=ff6b35&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/dipaliparkhede?style=for-the-badge&logo=github&label=FOLLOWERS" />
-</p>
 
 ---
 
@@ -41,10 +37,11 @@
 <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi" />
 </p>
 
-### 🤖 Data Science & AI
+<p> <img src="https://skillicons.dev/icons?i=python,tensorflow" /> </p>
 
-`Machine Learning` `TensorFlow` `NumPy` `Pandas` `SciPy`
-`Scikit-learn` `Matplotlib` `Seaborn` `Jupyter`
+<p> <img src="https://img.shields.io/badge/Machine%20Learning-FF6B35?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" /> </p>
+
+<p> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> </p>
 
 ### 🗄️ Database
 
