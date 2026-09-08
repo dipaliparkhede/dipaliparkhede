@@ -8,8 +8,6 @@
 🌱 Currently strengthening **DSA with Java & Python**
 
 
----
-
 ## 🧰 Tech Stack
 
 ### 👨‍💻 Languages
@@ -65,9 +63,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dipaliparkhede&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" />
 </p>
-
----
-
 
 ---
 
