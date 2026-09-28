@@ -56,15 +56,7 @@
   <img src="https://streak-stats.demolab.com?user=dipaliparkhede&theme=transparent&hide_border=true&ring=FF6B35&fire=FF4500&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </p>
 
----
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dipaliparkhede&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" />
-</p>
-
----
 
 ## 🌱 Currently Exploring
 
