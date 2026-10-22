@@ -5,7 +5,7 @@
 🎓 **MCA Student** specializing in Data Science & Machine Learning
 💻 **Full Stack Developer** passionate about building modern web applications
 🤖 Exploring **Artificial Intelligence & Machine Learning**
-🌱 Currently strengthening **DSA with Java & Python**
+🌱 Currently strengthening **DSA with Java**
 
 
 ## 🧰 Tech Stack
